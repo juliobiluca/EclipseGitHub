@@ -1,1 +1,1 @@
-# SomarDoisNumeros
+# Exercícios TI 2
